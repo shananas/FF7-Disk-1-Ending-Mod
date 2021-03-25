@@ -1,0 +1,23 @@
+title: FF7 Disk 1 Ending Mod
+originalAuthor: TomK1004
+description: Applies Aerith's model to Sephiroth's Sword 
+assets:
+ - name: obj/N_HB590_BTL.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB590_BTL.mdlx
+    
+ - name: obj/N_HB590_GM.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB590_GM.mdlx
+    
+ - name: obj/N_HB590_RTN.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB590_RTN.mdlx
+
+ - name: obj/N_HB630.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB630.mdlx
